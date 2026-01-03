@@ -18,6 +18,9 @@
 🔹 ** Labs e CTFs**  
 Estudo prático de enumeração, exploração básica e análise de vulnerabilidades em ambientes controlados.
 
+- 🔐 [Writeups](https://github.com/Matscc/hackthebox-writeups)
+
+
 🔹 **Estudos em Segurança da Informação**  
 Anotações e práticas sobre redes, Linux e conceitos de cibersegurança.
 
